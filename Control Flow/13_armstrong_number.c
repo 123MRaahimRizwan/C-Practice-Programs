@@ -24,7 +24,7 @@ int main()
     // or not.
     if (tempNumber == power)
     {
-        printf("Yes. It is Armstrong No.");
+        printf("Yes it is an armstrong number");
     }
     else
     {
